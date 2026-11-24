@@ -1,0 +1,4 @@
+priority,first_response_sla_min,resolution_sla_hours
+High,30,8
+Medium,120,24
+Low,480,72

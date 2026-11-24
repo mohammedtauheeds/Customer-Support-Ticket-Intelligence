@@ -1,0 +1,11 @@
+ticket_id,category,ticket_text,expected_key_information
+T001,Slow Internet,"My internet speed has been extremely slow for three days. I restarted my router but the problem continues.",Slow speed; duration three days; router restart unsuccessful
+T002,Billing Dispute,"My broadband bill is 1200 rupees but my plan costs 799 rupees. Please correct this.",Expected 799; billed 1200; billing discrepancy
+T003,Payment Failure,"I paid through UPI yesterday and money was deducted, but my broadband is still showing payment pending.",UPI payment; money deducted; payment pending
+T004,Technician Complaint,"I booked a technician two days ago but nobody arrived. I contacted support multiple times.",Technician visit missed; booked two days ago; repeated support contact
+T005,Router Problem,"My router overheats and disconnects every few hours. Restarting it did not fix the problem.",Router overheating; frequent disconnections; restart unsuccessful
+T006,No Internet,"My connection has been completely down since this morning. The LOS light on my modem is red.",Complete connection outage; since morning; red LOS light
+T007,Plan Change,"I requested an upgrade to my broadband plan last week but my account still shows the old plan.",Plan upgrade requested; last week; old plan still active
+T008,Relocation,"I moved to a new house last weekend and need my broadband connection transferred to the new address.",Relocation; last weekend; connection transfer requested
+T009,Disconnection,"I want to disconnect my broadband service at the end of this month. Please tell me how to proceed.",Disconnection request; end of month; procedure requested
+T010,WiFi Problem,"WiFi works near the router but the signal is very weak in my bedroom and kitchen.",Weak WiFi coverage; bedroom and kitchen; works near router
