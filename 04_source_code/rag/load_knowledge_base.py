@@ -9,7 +9,7 @@ import faiss
 # 1. KNOWLEDGE BASE CONFIGURATION
 # ==========================================
 
-KB_FOLDER = Path("00_reference_data/knowledge_base")
+KB_FOLDER = Path(__file__).resolve().parents[2] / "00_reference_data" / "knowledge_base"
 
 
 # ==========================================
